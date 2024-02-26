@@ -13,7 +13,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Servlets](https://img.shields.io/badge/-Servlets-007396?style=flat&logo=java)
-![Apache Commons DBCP](https://img.shields.io/badge/-Apache%20Commons%20DBCP-EC7A3E?style=flat&logo=apache)
 ![JDBC](https://img.shields.io/badge/-JDBC-007396?style=flat&logo=java)
 
 ### Backend:
